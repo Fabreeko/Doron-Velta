@@ -1,6 +1,6 @@
 # Doron Velta
 
-This is Fabreeko's repository of Rogerio Goncalves's Doron Velta project (https://github.com/rogerlz/Doron-Velta).  Here you will find our staff and community member's efforts to organize, improve upon, and support the project.
+This is Fabreeko's repository of Rogerio Goncalves' fantastic Doron Velta project (https://github.com/rogerlz/Doron-Velta).  Here you will find our staff and community member's efforts to organize, improve upon, and support the project.
 
 ## What's here?
 
@@ -22,7 +22,7 @@ This is Fabreeko's repository of Rogerio Goncalves's Doron Velta project (https:
 
 - Build notes by ...
 - Build notes by ...
-- Original Fystec github repo ...
+- Fystec repository - https://github.com/FYSETC/FYSETC-Doron_Velta
 - Community member A repo
 - Community member B repo
 
