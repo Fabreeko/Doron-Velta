@@ -8,7 +8,7 @@ This is Fabreeko's repository of Rogerio Goncalves' fantastic Doron Velta projec
 - Complete STLs, CAD, and everything you need to print and build our Doron Velta kits.
   - **All STLs have been fixed and are properly oriented for printing!**
   - Standard Voron naming conventions, accents, etc are now used.
-  - Optional 3rd color  in CAD and STLs
+  - Optional 3rd color in CAD and STLs. If you only want one accent color treat both a1 & a2 as the same color.
 - Links to popular community sources for additional improvements, mods, and fixes.
 - UserMods from our community
 
