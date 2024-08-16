@@ -19,7 +19,16 @@ This is Fabreeko's repository of Rogerio Goncalves' fantastic Doron Velta projec
   - Fystec has published a Wiring Guide as well as an Introduction and Safety pamplet: https://github.com/FYSETC/FYSETC-Doron_Velta
 - Download the repository's zip file, extract, and print the parts.
 - Assemble following the CAD.
-  - You can view our live version here: https://grabcad.com/library/doron-velta-r2-by-fabreeko-1
+
+## View the CAD Online
+
+To help during assembly, you may need to refer to the CAD.  An online version is available here:
+
+https://grabcad.com/library/doron-velta-r2-by-fabreeko-1
+
+Once there, click the "Load in 3D Viewer", to view it.
+
+![Doron Velta preview](Renders/grabcad-preview.png "Doron Velta Preview")
 
 ## Community Links
 
