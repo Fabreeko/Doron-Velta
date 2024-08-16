@@ -22,10 +22,9 @@ We also have published a complete set of STLs, CAD, and everything you need to p
 
 ### Getting started
 
-- Download and fimiliarize yourself with the published manuals.
-  - Fystec has published a Wiring Guide as well as an Introduction and Safety pamplet: https://github.com/FYSETC/FYSETC-Doron_Velta
-- Download the repository's zip file, extract, and print the parts.
+- Download this repository's zip file for all the STLs and 3mf files to print.
 - Assemble following the CAD (see below).
+- Following the wiring guide located in this repository (currently Fystec's version).
 
 ### View the CAD online
 
