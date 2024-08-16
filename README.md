@@ -26,3 +26,16 @@ This is Fabreeko's repository of Rogerio Goncalves' fantastic Doron Velta projec
 - Rogerio Goncalves' official release of the DV: https://github.com/rogerlz/Doron-Velta
 - Fystec R2 Edition: https://github.com/FYSETC/FYSETC-Doron_Velta
 - GrabCAD Live 3D Viewer: https://grabcad.com/library/doron-velta-r2-by-fabreeko-1
+
+## Renders
+
+![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_1.png "Doron Velta")
+![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_2.png "Doron Velta")
+![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_3.png "Doron Velta")
+![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_4.png "Doron Velta")
+![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_5.png "Doron Velta")
+
+## Licenses
+
+- Licensed under GPL-3.0.
+- Fystec does not provide a license.
