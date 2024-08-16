@@ -13,6 +13,7 @@ And our community members have published the following.
 - Getting started
 - Viewing the CAD online
 - Installing Firmware
+- Getting Help
 - Links to community sources for additional improvements, mods, and fixes.
 
 We also have published a complete set of STLs, CAD, and everything you need to print and build our Doron Velta kits, including:
@@ -20,6 +21,10 @@ We also have published a complete set of STLs, CAD, and everything you need to p
   - All STLs have been fixed, renamed, and **are properly oriented for printing!**
   - Standard Voron naming conventions, accents, etc are now used.
   - Optional 3rd color in CAD and STLs. If you only want one accent color treat both [a1] and [a2] as the same color.
+
+### Before you Begin
+
+Please consider [joining our Discord server for live community support](https://discord.gg/Fabreeko).  We also provide customer support through the same Discord.
 
 ### Getting started
 
@@ -50,7 +55,7 @@ Once there, click the "Load in 3D Viewer", to view it.
 ![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_4.png "Doron Velta")
 ![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_5.png "Doron Velta")
 
-### Community Links
+## Community Links
 
 - Rogerio Goncalves' official release of the DV: https://github.com/rogerlz/Doron-Velta
 - Fystec R2 Edition: https://github.com/FYSETC/FYSETC-Doron_Velta
