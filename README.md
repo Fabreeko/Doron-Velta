@@ -21,7 +21,7 @@ We also have published a complete set of STLs, CAD, and everything you need to p
   - All STLs have been fixed, renamed, and **are properly oriented for printing!**
   - Standard Voron naming conventions, accents, etc are now used.
   - Optional 3rd color in CAD and STLs. If you only want one accent color treat both [a1] and [a2] as the same color.
-  - Profile File created using OrcaSlicer with a 300mm size printer in mind for all the parts needed and the correct number of each to print. Change your Printer and Filament profiles.
+  - Project File created using OrcaSlicer with a 300mm size printer in mind for all the parts needed and the correct number of each to print. Change your Printer and Filament profiles.
 
 ### Before you Begin
 
