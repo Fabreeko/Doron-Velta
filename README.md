@@ -20,9 +20,5 @@ This is Fabreeko's repository of Rogerio Goncalves' fantastic Doron Velta projec
 
 ## Community Links
 
-- Build notes by ...
-- Build notes by ...
-- Fystec repository - https://github.com/FYSETC/FYSETC-Doron_Velta
-- Community member A repo
-- Community member B repo
-
+- Rogerio Goncalves' official release of the DV - https://github.com/rogerlz/Doron-Velta
+- Fystec R2 Edition - https://github.com/FYSETC/FYSETC-Doron_Velta
