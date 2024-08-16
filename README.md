@@ -10,7 +10,6 @@ This is Fabreeko's repository of Rogerio Goncalves' fantastic Doron Velta projec
   - Standard Voron naming conventions, accents, etc are now used.
   - Optional 3rd color in CAD and STLs. If you only want one accent color treat both [a1] and [a2] as the same color.
 - Links to popular community sources for additional improvements, mods, and fixes.
-- UserMods from our community
 
 ## Getting started
 
