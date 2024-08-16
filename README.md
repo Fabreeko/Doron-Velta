@@ -2,6 +2,8 @@
 
 This is Fabreeko's repository of Rogerio Goncalves' fantastic Doron Velta project (https://github.com/rogerlz/Doron-Velta).  Here you will find our staff and community member's efforts to organize, improve upon, and support the project.
 
+![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_1. "Doron Velta")
+
 ## What's here?
 
 - Getting started guides
