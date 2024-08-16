@@ -12,6 +12,7 @@ And our community members have published the following.
 
 - Getting started
 - Viewing the CAD online
+- Installing Firmware
 - Links to community sources for additional improvements, mods, and fixes.
 
 We also have published a complete set of STLs, CAD, and everything you need to print and build our Doron Velta kits, including:
@@ -25,6 +26,7 @@ We also have published a complete set of STLs, CAD, and everything you need to p
 - Download this repository's zip file for all the STLs and 3mf files to print.
 - Assemble following the CAD (see below).
 - Following the wiring guide located in this repository (currently Fystec's version).
+- Install [our Firmware](/Firmware).
 
 ### View the CAD online
 
@@ -36,11 +38,9 @@ Once there, click the "Load in 3D Viewer", to view it.
 
 ![Doron Velta preview](Renders/grabcad-preview.png "Doron Velta Preview")
 
-### Community Links
+### Installing Firmware
 
-- Rogerio Goncalves' official release of the DV: https://github.com/rogerlz/Doron-Velta
-- Fystec R2 Edition: https://github.com/FYSETC/FYSETC-Doron_Velta
-- GrabCAD Live 3D Viewer: https://grabcad.com/library/doron-velta-r2-by-fabreeko-1
+[Please see the /Firmware folder](/Firmware).
 
 ## Renders
 
@@ -49,6 +49,12 @@ Once there, click the "Load in 3D Viewer", to view it.
 ![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_3.png "Doron Velta")
 ![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_4.png "Doron Velta")
 ![Doron Velta](Renders/Doron_Velta_R2_FYSTEC_5.png "Doron Velta")
+
+### Community Links
+
+- Rogerio Goncalves' official release of the DV: https://github.com/rogerlz/Doron-Velta
+- Fystec R2 Edition: https://github.com/FYSETC/FYSETC-Doron_Velta
+- Grab CAD Live 3D Viewer: https://grabcad.com/library/doron-velta-r2-by-fabreeko-1
 
 ## Licenses
 
